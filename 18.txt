@@ -1,0 +1,6 @@
+9k.tree     giraffe.jpg		      labels		person.jpg  voc.names
+coco9k.map  goal.txt		      obj		scream.jpg
+coco.names  horses.jpg		      obj.data		test
+dog.jpg     imagenet.labels.list      obj.names		test.txt
+eagle.jpg   imagenet.shortnames.list  openimages.names	train.txt
+
