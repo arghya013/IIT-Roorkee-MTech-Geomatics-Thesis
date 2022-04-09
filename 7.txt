@@ -184,11 +184,11 @@ Done! Loaded 162 layers from weights-file
  Detection layer: 139 - type = 28 
  Detection layer: 150 - type = 28 
  Detection layer: 161 - type = 28 
-data/person.jpg: Predicted in 32.795000 milli-seconds.
-dog: 99%
+data/test.jpg: Predicted in 32.558000 milli-seconds.
+car: 100%
 person: 100%
-horse: 98%
+person: 99%
 Unable to init server: Could not connect: Connection refused
 
-(predictions:1160): Gtk-[1;33mWARNING[0m **: [34m09:34:44.163[0m: cannot open display: 
+(predictions:1217): Gtk-[1;33mWARNING[0m **: [34m09:24:36.452[0m: cannot open display: 
 
